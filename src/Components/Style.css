@@ -1,0 +1,25 @@
+.contents{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.header{
+    background-color: aqua;
+    padding: 20px;
+}
+
+.link{
+    font-size: 20px;
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.link:active{
+    text-decoration: underline;
+    font-weight: bold;
+    color: blue;
+    text-shadow: 2px 2px 5px silver;
+}
